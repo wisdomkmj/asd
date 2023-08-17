@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "practice",
-    "password": "0000",
-    "database": "nodejs",
-    "host": "127.0.0.1",
+    "username": "admin",
+    "password": "12345678",
+    "database": "aws-rds",
+    "host": "kdt-test.c5qwmgexgijj.ap-southeast-2.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": { 
